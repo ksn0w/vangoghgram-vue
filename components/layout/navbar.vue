@@ -1,4 +1,5 @@
 <template lang="pug">
-  nav.navbar.navbar-light.bg-faded
-    h1.navbar-brand.mb-0 Vangoghgram
+  nav
+    .nav-wrapper.blue.lighten-2
+      a(href='#' class='brand-logo') Vangoghgram
 </template>
